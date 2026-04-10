@@ -67,6 +67,7 @@ rules:
 
   # Clash Royale
   - DOMAIN-SUFFIX,clashroyale.com,Proxy
+  - DOMAIN-SUFFIX,clashroyaleapp.com,Proxy
   - DOMAIN-SUFFIX,supercell.com,Proxy
 
   # Blockchain
