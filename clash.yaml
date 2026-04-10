@@ -20,9 +20,11 @@ proxy-groups:
       - RU-Entry-WS
 
 rules:
-  # YouTube
+  # YouTube + Google
   - DOMAIN-SUFFIX,youtube.com,Proxy
   - DOMAIN-SUFFIX,googlevideo.com,Proxy
+  - DOMAIN-SUFFIX,gstatic.com,Proxy
+  - DOMAIN-SUFFIX,googleapis.com,Proxy
   - DOMAIN-SUFFIX,ytimg.com,Proxy
   - DOMAIN-SUFFIX,yt3.ggpht.com,Proxy
 
