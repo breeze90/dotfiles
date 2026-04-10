@@ -36,7 +36,7 @@ rules:
   - DOMAIN-SUFFIX,twimg.com,Proxy
   - DOMAIN-SUFFIX,t.co,Proxy
 
-  # Telegram (домены + IP напрямую)
+  # Telegram
   - DOMAIN-SUFFIX,telegram.org,Proxy
   - DOMAIN-SUFFIX,t.me,Proxy
   - DOMAIN-SUFFIX,telegram.me,Proxy
@@ -50,6 +50,37 @@ rules:
   - DOMAIN-SUFFIX,whatsapp.com,Proxy
   - DOMAIN-SUFFIX,whatsapp.net,Proxy
   - DOMAIN-SUFFIX,wa.me,Proxy
+
+  # Claude
+  - DOMAIN-SUFFIX,claude.ai,Proxy
+  - DOMAIN-SUFFIX,anthropic.com,Proxy
+
+  # ChatGPT
+  - DOMAIN-SUFFIX,chatgpt.com,Proxy
+  - DOMAIN-SUFFIX,openai.com,Proxy
+  - DOMAIN-SUFFIX,oaistatic.com,Proxy
+  - DOMAIN-SUFFIX,oaiusercontent.com,Proxy
+
+  # Gemini
+  - DOMAIN-SUFFIX,gemini.google.com,Proxy
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,Proxy
+
+  # Clash Royale
+  - DOMAIN-SUFFIX,clashroyale.com,Proxy
+  - DOMAIN-SUFFIX,supercell.com,Proxy
+
+  # Blockchain
+  - DOMAIN-SUFFIX,blockchain.com,Proxy
+  - DOMAIN-SUFFIX,blockchain.info,Proxy
+
+  # Fantasy Premier League
+  - DOMAIN-SUFFIX,premierleague.com,Proxy
+
+  # Apple
+  - DOMAIN-SUFFIX,apple.com,Proxy
+  - DOMAIN-SUFFIX,icloud.com,Proxy
+  - DOMAIN-SUFFIX,mzstatic.com,Proxy
+  - DOMAIN-SUFFIX,cdn-apple.com,Proxy
 
   # Всё остальное — напрямую
   - MATCH,DIRECT
