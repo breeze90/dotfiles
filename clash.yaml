@@ -69,9 +69,10 @@ rules:
   - DOMAIN-SUFFIX,gemini.google.com,Proxy
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,Proxy
 
-  # Clash Royale
+  # Clash Royale + Brawl Stars (Supercell)
   - DOMAIN-SUFFIX,clashroyale.com,Proxy
   - DOMAIN-SUFFIX,clashroyaleapp.com,Proxy
+  - DOMAIN-SUFFIX,brawlstars.com,Proxy
   - DOMAIN-SUFFIX,supercell.com,Proxy
 
   # Blockchain
@@ -80,6 +81,14 @@ rules:
 
   # Fantasy Premier League
   - DOMAIN-SUFFIX,premierleague.com,Proxy
+
+  # Medium
+  - DOMAIN-SUFFIX,medium.com,Proxy
+  - DOMAIN-SUFFIX,miro.medium.com,Proxy
+
+  # Pornhub
+  - DOMAIN-SUFFIX,pornhub.com,Proxy
+  - DOMAIN-SUFFIX,phncdn.com,Proxy
 
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
