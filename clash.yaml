@@ -90,10 +90,6 @@ rules:
   - DOMAIN-SUFFIX,pornhub.com,Proxy
   - DOMAIN-SUFFIX,phncdn.com,Proxy
 
-  # DNS leak test
-  - DOMAIN-SUFFIX,dnsleaktest.com,Proxy
-  - DOMAIN-SUFFIX,ipleak.net,Proxy
-
   # QA / DNS leak test (временно)
   - DOMAIN-SUFFIX,controld.com,Proxy
   - DOMAIN-SUFFIX,dnsleaktest.com,Proxy
