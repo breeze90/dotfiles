@@ -97,5 +97,11 @@ rules:
   - DOMAIN-SUFFIX,dnsleaktest.com,Proxy
   - DOMAIN-SUFFIX,ipleak.net,Proxy
 
+  # Apple
+  - DOMAIN-SUFFIX,apple.com,Proxy
+  - DOMAIN-SUFFIX,icloud.com,Proxy
+  - DOMAIN-SUFFIX,mzstatic.com,Proxy
+  - DOMAIN-SUFFIX,cdn-apple.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
