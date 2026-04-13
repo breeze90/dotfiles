@@ -77,6 +77,14 @@ rules:
   - DOMAIN-SUFFIX,brawlstars.com,Proxy
   - DOMAIN-SUFFIX,supercell.com,Proxy
 
+  # Netflix
+  - DOMAIN-SUFFIX,netflix.com,Proxy
+  - DOMAIN-SUFFIX,nflxvideo.net,Proxy
+  - DOMAIN-SUFFIX,nflximg.net,Proxy
+  - DOMAIN-SUFFIX,nflximg.com,Proxy
+  - DOMAIN-SUFFIX,nflxext.com,Proxy
+  - DOMAIN-SUFFIX,nflxso.net,Proxy
+
   # Blockchain
   - DOMAIN-SUFFIX,blockchain.com,Proxy
   - DOMAIN-SUFFIX,blockchain.info,Proxy
