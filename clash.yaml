@@ -42,6 +42,13 @@ rules:
   - DOMAIN-SUFFIX,twimg.com,Proxy
   - DOMAIN-SUFFIX,t.co,Proxy
 
+  # TikTok
+  - DOMAIN-SUFFIX,tiktok.com,Proxy
+  - DOMAIN-SUFFIX,tiktokv.com,Proxy
+  - DOMAIN-SUFFIX,tiktokcdn.com,Proxy
+  - DOMAIN-SUFFIX,ibytedtos.com,Proxy
+  - DOMAIN-SUFFIX,byteoversea.com,Proxy
+
   # Telegram (IP-диапазоны отдельно в config.json.tpl)
   - DOMAIN-SUFFIX,telegram.org,Proxy
   - DOMAIN-SUFFIX,t.me,Proxy
