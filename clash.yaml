@@ -75,6 +75,7 @@ rules:
   - DOMAIN-SUFFIX,clashroyale.com,Proxy
   - DOMAIN-SUFFIX,clashroyaleapp.com,Proxy
   - DOMAIN-SUFFIX,brawlstars.com,Proxy
+  - DOMAIN-SUFFIX,brawlstarsgame.com,Proxy
   - DOMAIN-SUFFIX,supercell.com,Proxy
 
   # Netflix
@@ -91,6 +92,10 @@ rules:
 
   # Fantasy Premier League
   - DOMAIN-SUFFIX,premierleague.com,Proxy
+
+  # Meduza
+  - DOMAIN-SUFFIX,meduza.io,Proxy
+  - DOMAIN-SUFFIX,static.meduza.io,Proxy
 
   # Medium
   - DOMAIN-SUFFIX,medium.com,Proxy
