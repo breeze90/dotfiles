@@ -112,10 +112,16 @@ rules:
   - DOMAIN-SUFFIX,pornhub.com,Proxy
   - DOMAIN-SUFFIX,phncdn.com,Proxy
 
-  # QA / DNS leak test (временно)
+  # DNS leak test
   - DOMAIN-SUFFIX,controld.com,Proxy
   - DOMAIN-SUFFIX,dnsleaktest.com,Proxy
   - DOMAIN-SUFFIX,ipleak.net,Proxy
+
+  # Betting
+  - DOMAIN-SUFFIX,asianodds88.com,Proxy
+
+  # Game Rant
+  - DOMAIN-SUFFIX,gamerant.com,Proxy
 
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
