@@ -123,6 +123,10 @@ rules:
   # Game Rant
   - DOMAIN-SUFFIX,gamerant.com,Proxy
 
+  # Tech forums
+  - DOMAIN-SUFFIX,4pda.to,Proxy
+  - DOMAIN-SUFFIX,ntc.party,Proxy
+
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
   - DOMAIN-SUFFIX,icloud.com,Proxy
