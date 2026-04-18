@@ -127,6 +127,10 @@ rules:
   - DOMAIN-SUFFIX,4pda.to,Proxy
   - DOMAIN-SUFFIX,ntc.party,Proxy
 
+  # Grafana Cloud
+  - DOMAIN-SUFFIX,grafana.com,Proxy
+  - DOMAIN-SUFFIX,grafana.net,Proxy
+
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
   - DOMAIN-SUFFIX,icloud.com,Proxy
