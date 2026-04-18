@@ -130,6 +130,10 @@ rules:
   # Grafana Cloud
   - DOMAIN-SUFFIX,grafana.com,Proxy
   - DOMAIN-SUFFIX,grafana.net,Proxy
+  - DOMAIN-SUFFIX,grafana.org,Proxy
+  - DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
+  - DOMAIN-SUFFIX,github.com,Proxy
+  - DOMAIN-SUFFIX,github.githubassets.com,Proxy
 
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
