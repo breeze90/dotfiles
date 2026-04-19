@@ -123,6 +123,9 @@ rules:
   # Game Rant
   - DOMAIN-SUFFIX,gamerant.com,Proxy
 
+  # The Athletic
+  - DOMAIN-SUFFIX,theathletic.com,Proxy
+
   # Tech forums
   - DOMAIN-SUFFIX,4pda.to,Proxy
   - DOMAIN-SUFFIX,ntc.party,Proxy
