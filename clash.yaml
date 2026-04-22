@@ -59,6 +59,7 @@ rules:
   - IP-CIDR,91.105.192.0/23,Proxy
   - IP-CIDR,95.161.64.0/20,Proxy
   - IP-CIDR,5.28.192.0/18,Proxy
+  - IP-CIDR,194.221.61.0/24,Proxy
 
   # WhatsApp
   - DOMAIN-SUFFIX,whatsapp.com,Proxy
