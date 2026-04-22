@@ -145,5 +145,8 @@ rules:
   - DOMAIN-SUFFIX,mzstatic.com,Proxy
   - DOMAIN-SUFFIX,cdn-apple.com,Proxy
 
+  # Rutracker
+  - DOMAIN-SUFFIX,rutracker.org,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
