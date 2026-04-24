@@ -152,5 +152,8 @@ rules:
   # Metacritic
   - DOMAIN-SUFFIX,metacritic.com,Proxy
 
+  # Redfoxcloud (хостинг)
+  - DOMAIN-SUFFIX,redfoxcloud.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
