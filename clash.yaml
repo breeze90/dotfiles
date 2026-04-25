@@ -155,5 +155,8 @@ rules:
   # Redfoxcloud (хостинг)
   - DOMAIN-SUFFIX,redfoxcloud.com,Proxy
 
+  # Namecheap (домены)
+  - DOMAIN-SUFFIX,namecheap.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
