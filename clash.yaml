@@ -160,6 +160,11 @@ rules:
 
   # Kino.pub
   - DOMAIN-SUFFIX,kino.pub,Proxy
+  - DOMAIN-SUFFIX,api.service-kp.com,Proxy
+  - DOMAIN-SUFFIX,pushbr.com,Proxy
+  - DOMAIN-SUFFIX,cdn32.lol,Proxy
+  - DOMAIN-SUFFIX,cdntogo.net,Proxy
+  - DOMAIN-SUFFIX,gravatar.com,Proxy
 
   # Всё остальное — напрямую
   - MATCH,DIRECT
