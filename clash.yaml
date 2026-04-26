@@ -158,5 +158,8 @@ rules:
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
 
+  # Kino.pub
+  - DOMAIN-SUFFIX,kino.pub,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
