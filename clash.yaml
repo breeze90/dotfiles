@@ -158,6 +158,9 @@ rules:
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
 
+  # Canva
+  - DOMAIN-SUFFIX,canva.com,Proxy
+
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
 
