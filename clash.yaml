@@ -158,6 +158,9 @@ rules:
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
 
+  # Cofilm AI
+  - DOMAIN-SUFFIX,cofilm.ai,Proxy
+
   # Kino.pub
   - DOMAIN-SUFFIX,kino.pub,Proxy
   - DOMAIN-SUFFIX,api.service-kp.com,Proxy
