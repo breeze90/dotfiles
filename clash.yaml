@@ -161,6 +161,10 @@ rules:
   # Canva
   - DOMAIN-SUFFIX,canva.com,Proxy
 
+  # Music
+  - DOMAIN-SUFFIX,allmusic.com,Proxy
+  - DOMAIN-SUFFIX,rateyourmusic.com,Proxy
+
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
 
