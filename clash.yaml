@@ -155,11 +155,17 @@ rules:
   # Redfoxcloud (хостинг)
   - DOMAIN-SUFFIX,redfoxcloud.com,Proxy
 
+  # Cloudflare Turnstile (капча на сайтах с CF защитой)
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,Proxy
+
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
 
   # BlueVPS (хостинг)
   - DOMAIN-SUFFIX,bluevps.com,Proxy
+
+  # CoinGate (крипто-платежи)
+  - DOMAIN-SUFFIX,coingate.com,Proxy
 
   # Canva
   - DOMAIN-SUFFIX,canva.com,Proxy
