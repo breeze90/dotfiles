@@ -170,6 +170,9 @@ rules:
   # Canva
   - DOMAIN-SUFFIX,canva.com,Proxy
 
+  # Strava
+  - DOMAIN-SUFFIX,strava.com,Proxy
+
   # Music
   - DOMAIN-SUFFIX,allmusic.com,Proxy
   - DOMAIN-SUFFIX,rateyourmusic.com,Proxy
