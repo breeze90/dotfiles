@@ -5,7 +5,7 @@ log-level: warning
 
 dns:
   enable: true
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
   nameserver:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
