@@ -180,6 +180,13 @@ rules:
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
 
+  # Discord
+  - DOMAIN-SUFFIX,discord.com,Proxy
+  - DOMAIN-SUFFIX,discordapp.com,Proxy
+  - DOMAIN-SUFFIX,discordapp.net,Proxy
+  - DOMAIN-SUFFIX,discord.gg,Proxy
+  - DOMAIN-SUFFIX,discord.media,Proxy
+
   # Kino.pub
   - DOMAIN-SUFFIX,kino.pub,Proxy
   - DOMAIN-SUFFIX,api.service-kp.com,Proxy
