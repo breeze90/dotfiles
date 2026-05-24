@@ -23,6 +23,7 @@ rules:
 
   # YouTube + Google
   - DOMAIN-SUFFIX,youtube.com,Proxy
+  - DOMAIN-SUFFIX,youtu.be,Proxy
   - DOMAIN-SUFFIX,googlevideo.com,Proxy
   - DOMAIN-SUFFIX,ytimg.com,Proxy
   - DOMAIN-SUFFIX,yt3.ggpht.com,Proxy
