@@ -143,6 +143,7 @@ rules:
   - DOMAIN-SUFFIX,raw.githubusercontent.com,Proxy
   - DOMAIN-SUFFIX,github.com,Proxy
   - DOMAIN-SUFFIX,github.githubassets.com,Proxy
+  - DOMAIN-SUFFIX,github.io,Proxy
 
   # Apple
   - DOMAIN-SUFFIX,apple.com,Proxy
