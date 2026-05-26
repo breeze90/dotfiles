@@ -129,6 +129,9 @@ rules:
   # The Athletic
   - DOMAIN-SUFFIX,theathletic.com,Proxy
 
+  # The Telegraph
+  - DOMAIN-SUFFIX,telegraph.co.uk,Proxy
+
   # Tech forums
   - DOMAIN-SUFFIX,4pda.to,Proxy
   - DOMAIN-SUFFIX,ntc.party,Proxy
