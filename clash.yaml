@@ -36,6 +36,8 @@ rules:
   # Instagram
   - DOMAIN-SUFFIX,instagram.com,Proxy
   - DOMAIN-SUFFIX,cdninstagram.com,Proxy
+  - DOMAIN-SUFFIX,fbcdn.net,Proxy
+  - DOMAIN-SUFFIX,fbsbx.com,Proxy
 
   # X / Twitter
   - DOMAIN-SUFFIX,x.com,Proxy
