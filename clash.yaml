@@ -172,6 +172,9 @@ rules:
   # AlphaVPS (хостинг)
   - DOMAIN-SUFFIX,alphavps.com,Proxy
 
+  # VPSNet (хостинг)
+  - DOMAIN-SUFFIX,vpsnet.com,Proxy
+
   # CoinGate (крипто-платежи)
   - DOMAIN-SUFFIX,coingate.com,Proxy
 
