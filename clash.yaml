@@ -199,6 +199,14 @@ rules:
   - DOMAIN-SUFFIX,discordapp.net,Proxy
   - DOMAIN-SUFFIX,discord.gg,Proxy
   - DOMAIN-SUFFIX,discord.media,Proxy
+  - DOMAIN-SUFFIX,discord.app,Proxy
+  - DOMAIN-SUFFIX,discord.co,Proxy
+  - DOMAIN-SUFFIX,discord.dev,Proxy
+  - DOMAIN-SUFFIX,discord.gift,Proxy
+  - DOMAIN-SUFFIX,discord.new,Proxy
+  - DOMAIN-SUFFIX,discordcdn.com,Proxy
+  - DOMAIN-SUFFIX,discordstatus.com,Proxy
+  - DOMAIN-SUFFIX,dis.gd,Proxy
 
   # Kino.pub
   - DOMAIN-SUFFIX,kino.pub,Proxy
