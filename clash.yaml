@@ -39,6 +39,14 @@ rules:
   - DOMAIN-SUFFIX,fbcdn.net,Proxy
   - DOMAIN-SUFFIX,fbsbx.com,Proxy
 
+  # Facebook / Messenger
+  - DOMAIN-SUFFIX,facebook.com,Proxy
+  - DOMAIN-SUFFIX,facebook.net,Proxy
+  - DOMAIN-SUFFIX,fb.com,Proxy
+  - DOMAIN-SUFFIX,fb.watch,Proxy
+  - DOMAIN-SUFFIX,messenger.com,Proxy
+  - DOMAIN-SUFFIX,m.me,Proxy
+
   # X / Twitter
   - DOMAIN-SUFFIX,x.com,Proxy
   - DOMAIN-SUFFIX,twitter.com,Proxy
