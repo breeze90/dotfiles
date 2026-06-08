@@ -216,5 +216,8 @@ rules:
   - DOMAIN-SUFFIX,cdntogo.net,Proxy
   - DOMAIN-SUFFIX,gravatar.com,Proxy
 
+  # Polymarket
+  - DOMAIN-SUFFIX,polymarket.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
