@@ -117,6 +117,9 @@ rules:
   - DOMAIN-SUFFIX,meduza.io,Proxy
   - DOMAIN-SUFFIX,static.meduza.io,Proxy
 
+  # The Insider
+  - DOMAIN-SUFFIX,theins.ru,Proxy
+
   # Medium
   - DOMAIN-SUFFIX,medium.com,Proxy
   - DOMAIN-SUFFIX,miro.medium.com,Proxy
