@@ -166,6 +166,9 @@ rules:
 
   # Rutracker
   - DOMAIN-SUFFIX,rutracker.org,Proxy
+  - DOMAIN-SUFFIX,rutracker.cc,Proxy
+  - DOMAIN-SUFFIX,static.rutracker.cc,Proxy
+  - DOMAIN-SUFFIX,rutrk.org,Proxy
 
   # Metacritic
   - DOMAIN-SUFFIX,metacritic.com,Proxy
