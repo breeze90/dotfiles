@@ -233,5 +233,9 @@ rules:
   # Polymarket
   - DOMAIN-SUFFIX,polymarket.com,Proxy
 
+  # Patreon
+  - DOMAIN-SUFFIX,patreon.com,Proxy
+  - DOMAIN-SUFFIX,patreonusercontent.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
