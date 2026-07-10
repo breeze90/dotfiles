@@ -237,5 +237,8 @@ rules:
   - DOMAIN-SUFFIX,patreon.com,Proxy
   - DOMAIN-SUFFIX,patreonusercontent.com,Proxy
 
+  # Politico
+  - DOMAIN-SUFFIX,politico.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
