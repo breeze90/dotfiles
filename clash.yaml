@@ -240,5 +240,8 @@ rules:
   # Politico
   - DOMAIN-SUFFIX,politico.com,Proxy
 
+  # Threads
+  - DOMAIN-SUFFIX,threads.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
