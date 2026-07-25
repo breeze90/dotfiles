@@ -243,5 +243,8 @@ rules:
   # Threads
   - DOMAIN-SUFFIX,threads.com,Proxy
 
+  # Google Antigravity / Cloud Code
+  - DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
