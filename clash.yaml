@@ -246,5 +246,8 @@ rules:
   # Google Antigravity / Cloud Code
   - DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com,Proxy
 
+  # FatSecret (дневник питания)
+  - DOMAIN-SUFFIX,fatsecret.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
