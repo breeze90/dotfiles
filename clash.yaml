@@ -78,7 +78,12 @@ rules:
 
   # Claude
   - DOMAIN-SUFFIX,claude.ai,Proxy
+  - DOMAIN-SUFFIX,claude.com,Proxy
   - DOMAIN-SUFFIX,anthropic.com,Proxy
+
+  # телеметрия фронтенда Claude — светит реальный IP мимо туннеля
+  - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com,Proxy
+  - DOMAIN-SUFFIX,api.segment.io,Proxy
 
   # ChatGPT
   - DOMAIN-SUFFIX,chatgpt.com,Proxy
@@ -177,9 +182,6 @@ rules:
 
   # Cloudflare Turnstile (капча на сайтах с CF защитой)
   - DOMAIN-SUFFIX,challenges.cloudflare.com,Proxy
-
-  # hCaptcha (капча Anthropic; токен привязан к IP решателя)
-  - DOMAIN-SUFFIX,hcaptcha.com,Proxy
 
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
