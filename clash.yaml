@@ -79,9 +79,13 @@ rules:
   # Claude
   - DOMAIN-SUFFIX,claude.ai,Proxy
   - DOMAIN-SUFFIX,claude.com,Proxy
+  - DOMAIN-SUFFIX,claudeusercontent.com,Proxy
   - DOMAIN-SUFFIX,anthropic.com,Proxy
 
-  # телеметрия фронтенда Claude — светит реальный IP мимо туннеля
+  # Телеметрия фронтенда Claude (суффиксом: intake-поддоменов несколько)
+  - DOMAIN-SUFFIX,datadoghq.com,Proxy
+
+  # отдельной строкой: тут datadoghq.com через дефис, суффикс не сработает
   - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com,Proxy
   - DOMAIN-SUFFIX,api.segment.io,Proxy
 
