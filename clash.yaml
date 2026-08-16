@@ -201,6 +201,10 @@ rules:
   # Strava
   - DOMAIN-SUFFIX,strava.com,Proxy
 
+  # правило широкое (весь amazonaws.com/cloudfront.net), см. коммит
+  - DOMAIN-SUFFIX,amazonaws.com,Proxy
+  - DOMAIN-SUFFIX,cloudfront.net,Proxy
+
   # Music
   - DOMAIN-SUFFIX,allmusic.com,Proxy
   - DOMAIN-SUFFIX,rateyourmusic.com,Proxy
