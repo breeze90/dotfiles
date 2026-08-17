@@ -114,6 +114,12 @@ rules:
   # Fantasy Premier League
   - DOMAIN-SUFFIX,premierleague.com,Proxy
 
+  # бэкенд Fantasy — отдельный домен, не поддомен premierleague.com
+  - DOMAIN-SUFFIX,pulselive.com,Proxy
+
+  # статика виджета авторизации (PingOne, регион EU)
+  - DOMAIN-SUFFIX,pingone.eu,Proxy
+
   # Meduza
   - DOMAIN-SUFFIX,meduza.io,Proxy
   - DOMAIN-SUFFIX,static.meduza.io,Proxy
