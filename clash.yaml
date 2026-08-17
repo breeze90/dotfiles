@@ -52,6 +52,10 @@ rules:
   - DOMAIN-SUFFIX,twimg.com,Proxy
   - DOMAIN-SUFFIX,t.co,Proxy
 
+  # Etsy
+  - DOMAIN-SUFFIX,etsy.com,Proxy
+  - DOMAIN-SUFFIX,etsystatic.com,Proxy
+
   # TikTok
   - DOMAIN-SUFFIX,tiktok.com,Proxy
   - DOMAIN-SUFFIX,tiktokv.com,Proxy
