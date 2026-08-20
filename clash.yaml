@@ -135,6 +135,12 @@ rules:
   # The Insider
   - DOMAIN-SUFFIX,theins.ru,Proxy
 
+  # Zona Media
+  - DOMAIN-SUFFIX,zona.media,Proxy
+
+  # The Moscow Times
+  - DOMAIN-SUFFIX,themoscowtimes.com,Proxy
+
   # Medium
   - DOMAIN-SUFFIX,medium.com,Proxy
   - DOMAIN-SUFFIX,miro.medium.com,Proxy
