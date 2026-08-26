@@ -278,6 +278,7 @@ rules:
   - DOMAIN-SUFFIX,capcut.com,Proxy
   - DOMAIN-SUFFIX,capcutapi.com,Proxy
   - DOMAIN-SUFFIX,capcutapi.us,Proxy
+  - DOMAIN-SUFFIX,capcutstatic.com,Proxy
 
   # Всё остальное — напрямую
   - MATCH,DIRECT
