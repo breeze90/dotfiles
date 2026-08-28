@@ -274,6 +274,10 @@ rules:
   # FatSecret (дневник питания)
   - DOMAIN-SUFFIX,fatsecret.com,Proxy
 
+  # Wikipedia
+  - DOMAIN-SUFFIX,wikipedia.org,Proxy
+  - DOMAIN-SUFFIX,wikimedia.org,Proxy
+
   # CapCut (ByteDance) — CDN/логин частично на общих доменах TikTok выше
   - DOMAIN-SUFFIX,capcut.com,Proxy
   - DOMAIN-SUFFIX,capcutapi.com,Proxy
