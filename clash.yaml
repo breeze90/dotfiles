@@ -85,6 +85,10 @@ rules:
   - DOMAIN-SUFFIX,wa.me,Proxy
   - IP-CIDR,194.221.250.50/32,Proxy
   - IP-CIDR,31.13.72.0/24,Proxy
+  - IP-CIDR,157.240.0.0/16,Proxy
+  - IP-CIDR,57.144.0.0/16,Proxy
+  - IP-CIDR,129.134.0.0/16,Proxy
+  - IP-CIDR,185.89.216.0/22,Proxy
 
   # Claude
   - DOMAIN-SUFFIX,claude.ai,Proxy
