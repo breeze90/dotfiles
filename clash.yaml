@@ -84,6 +84,7 @@ rules:
   - DOMAIN-SUFFIX,whatsapp.net,Proxy
   - DOMAIN-SUFFIX,wa.me,Proxy
   - IP-CIDR,194.221.250.50/32,Proxy
+  - IP-CIDR,31.13.72.0/24,Proxy
 
   # Claude
   - DOMAIN-SUFFIX,claude.ai,Proxy
