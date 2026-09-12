@@ -290,5 +290,9 @@ rules:
   - DOMAIN-SUFFIX,capcutapi.us,Proxy
   - DOMAIN-SUFFIX,capcutstatic.com,Proxy
 
+  # Flashscore (live-счёт спорт)
+  - DOMAIN-SUFFIX,flashscore.com,Proxy
+  - DOMAIN-SUFFIX,flashscore.co.uk,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
