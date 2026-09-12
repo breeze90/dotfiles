@@ -294,5 +294,8 @@ rules:
   - DOMAIN-SUFFIX,flashscore.com,Proxy
   - DOMAIN-SUFFIX,flashscore.co.uk,Proxy
 
+  # Google Flow (google.com намеренно не включён целиком, см. выше)
+  - DOMAIN-SUFFIX,flow.google.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
