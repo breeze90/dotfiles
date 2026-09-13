@@ -279,6 +279,7 @@ rules:
 
   # FatSecret (дневник питания)
   - DOMAIN-SUFFIX,fatsecret.com,Proxy
+  - DOMAIN-SUFFIX,ftscrt.com,Proxy
 
   # Wikipedia
   - DOMAIN-SUFFIX,wikipedia.org,Proxy
