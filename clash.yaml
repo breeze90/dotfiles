@@ -234,6 +234,11 @@ rules:
   # Music
   - DOMAIN-SUFFIX,allmusic.com,Proxy
   - DOMAIN-SUFFIX,rateyourmusic.com,Proxy
+  - DOMAIN-SUFFIX,albumoftheyear.org,Proxy
+  - DOMAIN-SUFFIX,rollingstone.com,Proxy
+  - DOMAIN-SUFFIX,nme.com,Proxy
+  - DOMAIN-SUFFIX,pitchfork.com,Proxy
+  - DOMAIN-SUFFIX,theguardian.com,Proxy
 
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
