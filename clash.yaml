@@ -239,6 +239,8 @@ rules:
   - DOMAIN-SUFFIX,nme.com,Proxy
   - DOMAIN-SUFFIX,pitchfork.com,Proxy
   - DOMAIN-SUFFIX,theguardian.com,Proxy
+  - DOMAIN-SUFFIX,angrymetalguy.com,Proxy
+  - DOMAIN-SUFFIX,loudersound.com,Proxy
 
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
