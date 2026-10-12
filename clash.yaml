@@ -246,6 +246,9 @@ rules:
   # Cofilm AI
   - DOMAIN-SUFFIX,cofilm.ai,Proxy
 
+  # ElevenLabs
+  - DOMAIN-SUFFIX,elevenlabs.io,Proxy
+
   # Discord
   - DOMAIN-SUFFIX,discord.com,Proxy
   - DOMAIN-SUFFIX,discordapp.com,Proxy
