@@ -309,5 +309,8 @@ rules:
   # Google Flow (google.com намеренно не включён целиком, см. выше)
   - DOMAIN-SUFFIX,flow.google.com,Proxy
 
+  # Archive.today (веб-архив)
+  - DOMAIN-SUFFIX,archive.ph,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
