@@ -312,5 +312,8 @@ rules:
   # Archive.today (веб-архив)
   - DOMAIN-SUFFIX,archive.ph,Proxy
 
+  # Chatplace (конструктор чат-ботов)
+  - DOMAIN-SUFFIX,chatplace.io,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
