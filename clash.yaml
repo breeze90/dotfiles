@@ -228,6 +228,9 @@ rules:
   # Strava
   - DOMAIN-SUFFIX,strava.com,Proxy
 
+  # Zwift (indoor cycling)
+  - DOMAIN-SUFFIX,zwift.com,Proxy
+
   # правило широкое (весь amazonaws.com/cloudfront.net), см. коммит
   - DOMAIN-SUFFIX,amazonaws.com,Proxy
   - DOMAIN-SUFFIX,cloudfront.net,Proxy
