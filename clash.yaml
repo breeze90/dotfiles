@@ -318,5 +318,11 @@ rules:
   # Chatplace (конструктор чат-ботов)
   - DOMAIN-SUFFIX,chatplace.io,Proxy
 
+  # Kimi (Moonshot AI): сайт, API, платформа и статика (statics.moonshot.cn)
+  - DOMAIN-SUFFIX,kimi.com,Proxy
+  - DOMAIN-SUFFIX,kimi.ai,Proxy
+  - DOMAIN-SUFFIX,moonshot.ai,Proxy
+  - DOMAIN-SUFFIX,moonshot.cn,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
