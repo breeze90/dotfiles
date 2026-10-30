@@ -291,6 +291,10 @@ rules:
   # Google Antigravity / Cloud Code
   - DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com,Proxy
 
+  # флаги функций и сайт приложения (раньше шли напрямую с RU IP)
+  - DOMAIN-SUFFIX,antigravity-unleash.goog,Proxy
+  - DOMAIN-SUFFIX,antigravity.google,Proxy
+
   # FatSecret (дневник питания)
   - DOMAIN-SUFFIX,fatsecret.com,Proxy
   - DOMAIN-SUFFIX,ftscrt.com,Proxy
