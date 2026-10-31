@@ -204,6 +204,9 @@ rules:
   # Redfoxcloud (хостинг)
   - DOMAIN-SUFFIX,redfoxcloud.com,Proxy
 
+  # FontAwesome (CDN иконок и веб-стилей)
+  - DOMAIN-SUFFIX,fontawesome.com,Proxy
+
   # Cloudflare Turnstile (капча на сайтах с CF защитой)
   - DOMAIN-SUFFIX,challenges.cloudflare.com,Proxy
 
