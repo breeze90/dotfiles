@@ -86,9 +86,13 @@ rules:
   - IP-CIDR,194.221.250.50/32,Proxy
   - IP-CIDR,31.13.72.0/24,Proxy
   - IP-CIDR,157.240.0.0/16,Proxy
-  - IP-CIDR,57.144.0.0/16,Proxy
+  - IP-CIDR,57.144.0.0/14,Proxy
   - IP-CIDR,129.134.0.0/16,Proxy
   - IP-CIDR,185.89.216.0/22,Proxy
+  - IP-CIDR,31.13.64.0/18,Proxy
+  - IP-CIDR,185.60.216.0/22,Proxy
+  - IP-CIDR,163.70.128.0/17,Proxy
+  - IP-CIDR,69.171.224.0/19,Proxy
 
   # Claude
   - DOMAIN-SUFFIX,claude.ai,Proxy
