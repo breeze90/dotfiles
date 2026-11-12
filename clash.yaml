@@ -335,5 +335,16 @@ rules:
   - DOMAIN-SUFFIX,moonshot.ai,Proxy
   - DOMAIN-SUFFIX,moonshot.cn,Proxy
 
+  # WebRTC STUN (точечно, без blanket google.com / cloudflare.com)
+  - DOMAIN-SUFFIX,stun.cloudflare.com,Proxy
+  - DOMAIN-SUFFIX,stun.twilio.com,Proxy
+  - DOMAIN-SUFFIX,stun.l.google.com,Proxy
+  - DOMAIN-SUFFIX,stun1.l.google.com,Proxy
+  - DOMAIN-SUFFIX,stun2.l.google.com,Proxy
+  - DOMAIN-SUFFIX,stun3.l.google.com,Proxy
+  - DOMAIN-SUFFIX,stun4.l.google.com,Proxy
+  - DOMAIN-SUFFIX,stun.sipgate.net,Proxy
+  - DOMAIN-SUFFIX,stun.voip.blackberry.com,Proxy
+
   # Всё остальное — напрямую
   - MATCH,DIRECT
