@@ -229,6 +229,10 @@ rules:
   # CoinGate (крипто-платежи)
   - DOMAIN-SUFFIX,coingate.com,Proxy
 
+  # Tuta (почта; tutanota.com — старый домен, на нём тоже работает вход)
+  - DOMAIN-SUFFIX,tuta.com,Proxy
+  - DOMAIN-SUFFIX,tutanota.com,Proxy
+
   # Canva
   - DOMAIN-SUFFIX,canva.com,Proxy
 
