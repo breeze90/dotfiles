@@ -118,6 +118,20 @@ rules:
   - DOMAIN-SUFFIX,brawlstarsgame.com,Proxy
   - DOMAIN-SUFFIX,supercell.com,Proxy
 
+  # Farm Heroes Saga (King — блок RU по GeoIP)
+  - DOMAIN-SUFFIX,king.com,Proxy
+  - DOMAIN-SUFFIX,midasplayer.cloud,Proxy
+
+  # Merge Mansion (Metacore)
+  - DOMAIN-SUFFIX,metacore.net,Proxy
+
+  # Merge Adventure
+  - DOMAIN-SUFFIX,ma-game.com,Proxy
+  - DOMAIN-SUFFIX,mergeadventuregame.net,Proxy
+  - DOMAIN-SUFFIX,mergehotelgame.net,Proxy
+  - DOMAIN-SUFFIX,mhma-prod-int.net,Proxy
+  - DOMAIN-SUFFIX,ip2c.org,Proxy
+
   # Netflix
   - DOMAIN-SUFFIX,netflix.com,Proxy
   - DOMAIN-SUFFIX,nflxvideo.net,Proxy
