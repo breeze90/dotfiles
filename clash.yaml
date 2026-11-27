@@ -359,6 +359,9 @@ rules:
   # Apify
   - DOMAIN-SUFFIX,apify.com,Proxy
 
+  # WhoScored
+  - DOMAIN-SUFFIX,whoscored.com,Proxy
+
   # WebRTC STUN (точечно, без blanket google.com / cloudflare.com)
   - DOMAIN-SUFFIX,stun.cloudflare.com,Proxy
   - DOMAIN-SUFFIX,stun.twilio.com,Proxy
