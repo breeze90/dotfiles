@@ -228,6 +228,9 @@ rules:
   # Cloudflare Turnstile (капча на сайтах с CF защитой)
   - DOMAIN-SUFFIX,challenges.cloudflare.com,Proxy
 
+  # hCaptcha (капча и проверка браузера, в т.ч. вход в Claude)
+  - DOMAIN-SUFFIX,hcaptcha.com,Proxy
+
   # Namecheap (домены)
   - DOMAIN-SUFFIX,namecheap.com,Proxy
 
